@@ -17,7 +17,7 @@ import {
   useBreakpointValue,
 } from "@chakra-ui/react"
 import { GetServerSideProps } from "next"
-import NextLink from "next/Link"
+import NextLink from "next/link"
 import { useState } from "react"
 import { RiAddLine, RiPencilLine } from "react-icons/ri"
 import { Header } from "../../components/Header"
